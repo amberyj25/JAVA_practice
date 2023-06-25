@@ -1,0 +1,16 @@
+- use 環境
+  - 參考有系列 youtube https://www.youtube.com/watch?v=7GUAbtbLk5s
+  - vscode
+- setUp JAVA
+  - setUp JDK(JAVA develope kit) ⇒ 想成 JAVA 底層套件 code
+    - 到 Oracle download JDK
+    - x64 DMG Installer
+- open vscode
+  - create
+    - .java 檔
+  - build 編譯
+    - javac .java 檔 ⇒ 生成 class 檔
+      - ex. javac Cool.java
+  - 執行 class 就可以在 terminal system.out.printlin()
+    - java .class 檔
+      - ex. java Cool
